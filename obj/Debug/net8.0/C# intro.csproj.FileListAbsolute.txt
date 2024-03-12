@@ -1,0 +1,14 @@
+c:\Users\owner\Desktop\projects\C# intro\bin\Debug\net8.0\C# intro.exe
+c:\Users\owner\Desktop\projects\C# intro\bin\Debug\net8.0\C# intro.deps.json
+c:\Users\owner\Desktop\projects\C# intro\bin\Debug\net8.0\C# intro.runtimeconfig.json
+c:\Users\owner\Desktop\projects\C# intro\bin\Debug\net8.0\C# intro.dll
+c:\Users\owner\Desktop\projects\C# intro\bin\Debug\net8.0\C# intro.pdb
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.AssemblyInfoInputs.cache
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.AssemblyInfo.cs
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.csproj.CoreCompileInputs.cache
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.dll
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\refint\C# intro.dll
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.pdb
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\C# intro.genruntimeconfig.cache
+c:\Users\owner\Desktop\projects\C# intro\obj\Debug\net8.0\ref\C# intro.dll
